@@ -1,0 +1,20 @@
+{
+  "name": "pavlism-polymerLib",
+  "main": "PolymerLib.js",
+  "description": "",
+  "authors": [
+    "Mark Pavlis"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pavlism-brokers": "*"
+  }
+}
