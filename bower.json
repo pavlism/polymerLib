@@ -16,5 +16,6 @@
   ],
   "dependencies": {
     "pavlism-brokers": "*"
-  }
+  },
+  "dependencies": {"pavlism-logger": "1.0.2", "pavlism-lib": "1.0.4", "pavlism-brokers":"1.0.2"}
 }
